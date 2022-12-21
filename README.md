@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adami</h1>
-<h3 align="center">Um estudante de Data Analytics de São Paulo, Brasil.</h3>
+<h3 align="center">Data Analytics student from São Paulo, Brasil.</h3>
 
 - 🔭 I’m currently working on [Análise de Transferências da Premier League](https://github.com/gfadami/Analise-Transferencias-Premier-League)
 
