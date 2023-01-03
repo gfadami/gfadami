@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adami</h1>
 <h3 align="center">Data Analytics student from São Paulo, Brazil.</h3>
 
-- 🔭 I’m currently working on [Análise de Transferências da Premier League](https://github.com/gfadami/Analise-Transferencias-Premier-League)
+- 🔭 I’m currently working on [Análise de Transferências da Premier League](https://github.com/gfadami/Transferencias-Premier-League-1992-2022)
 
 - 🌱 I’m currently learning **Power BI**
 
