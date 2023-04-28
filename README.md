@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Análise de Transferências da Premier League](https://github.com/gfadami/Transferencias-Premier-League-1992-2022)
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **Data Analytics projects**
 
-- 🤝 I’m looking for help with **Power BI and SQL**
+- 🤝 I’m looking for help with **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gfadami?tab=repositories](https://github.com/gfadami?tab=repositories)
 
