@@ -26,6 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="sql" width="40" height="40"/>
+<p align="left">  <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" width="40" height="40"/>
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Jupyter-Notebook-EF5w-udy4.png" alt="jupyter" width="40" height="40"/>
 <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://mobilemouse.com.au/wp-content/uploads/2021/08/Power_BI_256.png" alt="powerbi" width="40" height="40"/> 
