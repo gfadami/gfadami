@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **SQL Management Studio**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gfadami?tab=repositories](https://github.com/gfadami?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/gfadami/Portoflio)
 
 - 💬 Ask me about **Power BI, Python, Excel**
 
