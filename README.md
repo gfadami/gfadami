@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adami</h1>
 <h3 align="center">Data Analytics student from São Paulo, Brazil.</h3>
 
-- 🔭 I’m currently working on [Análise dos vencedores da Maratona de Boston com SQL](https://github.com/gfadami/Boston-Marathon-SQL)
+- 🔭 I’m currently working on [My Uber Trips](https://github.com/gfadami/Uber-Trips/tree/main)
 
 - 🌱 I’m currently learning **SQL Server**
 
