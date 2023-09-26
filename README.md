@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adami</h1>
 <h3 align="center">Swift student from São Paulo, Brazil.</h3>
-- 🔭 I’m currently working on [Swift practice](https://github.com/gfadami/Swift_Practice) //
+- 🔭 I’m currently working on [Swift practice](https://github.com/gfadami/Swift_Practice)
 
 - 🌱 I’m currently learning **Swift**
 
