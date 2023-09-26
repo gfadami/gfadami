@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adami</h1>
-<h3 align="center">Data Analytics student from São Paulo, Brazil.</h3>
+<h3 align="center">Swift student from São Paulo, Brazil.</h3>
+- 🔭 I’m currently working on [Swift practice](https://github.com/gfadami/Swift_Practice) //
 
-- 🔭 I’m currently working on [My Uber Trips](https://github.com/gfadami/Uber-Trips/tree/main)
+- 🌱 I’m currently learning **Swift**
 
-- 🌱 I’m currently learning **SQL Server**
+- 👯 I’m looking to collaborate on **iOS Development**
 
-- 👯 I’m looking to collaborate on **Data Analytics projects**
-
-- 🤝 I’m looking for help with **SQL Management Studio**
+- 🤝 I’m looking for help with **Swift**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/gfadami/Portoflio)
 
