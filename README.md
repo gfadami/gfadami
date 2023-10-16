@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **UIKit**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/gfadami/Portoflio)
-
 - 📫 How to reach me **gstvadami@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gfadami/](https://www.linkedin.com/in/gfadami/)
@@ -36,6 +34,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on Python projects
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/gfadami/Portoflio)
 - 📫 How to reach me: gstvadami@gmail.com or www.linkedin.com/in/gfadami
 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
