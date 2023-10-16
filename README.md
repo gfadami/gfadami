@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adami</h1>
-<h3 align="center">Data Analyst and Swift student from São Paulo, Brazil.</h3>
+<h3 align="center">iOS Developer student from São Paulo, Brazil.</h3>
 
 - 🔭 I’m currently working on [PKR Tomatoes App](https://github.com/gfadami/PKR-Tomatoes) 
 
