@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **iOS Development**
 
-- 🤝 I’m looking for help with **Swift**
+- 🤝 I’m looking for help with **ViewCode, MVVM, APIs**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/gfadami/Portoflio)
 
@@ -18,12 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gfadami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gfadami" height="30" width="40" /></a>
-<a href="https://kaggle.com/gfadami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gfadami" height="30" width="40" /></a>
 <a href="https://instagram.com/gfadami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gfadami" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://cdn-finae.nitrocdn.com/hRSwUytBAMOZcYjAQdJyIOUUHAzcrQlS/assets/images/optimized/rev-1c0e35d/ebpearls.com.au/wp-content/uploads/2023/06/Swift.svg" alt="swift" width="40" height="40"/>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-swift-2038869-1720082.png" alt="swift" width="40" height="40"/>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" alt="xcode" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://www.adobe.com/br/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/adobe-premiere-pro/logo-premiere-pro-256.png" alt="premiere" width="40" height="40"/> </a>
