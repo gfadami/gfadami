@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adami</h1>
 <h3 align="center">Data Analyst and Swift student from São Paulo, Brazil.</h3>
 
-- 🔭 I’m currently working on [Swift practice](https://github.com/gfadami/Swift_Practice)
+- 🔭 I’m currently working on [PKR Tomatoes App](https://github.com/gfadami/PKR-Tomatoes) 
 
 - 🌱 I’m currently learning **Swift**
 
-- 👯 I’m looking to collaborate on **Data Analyst projects and iOS Development**
+- 👯 I’m looking to collaborate on **iOS Development**
 
 - 🤝 I’m looking for help with **Swift**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/gfadami/Portoflio)
-
-- 💬 Ask me about **Power BI, Python, Excel**
 
 - 📫 How to reach me **gstvadami@gmail.com**
 
