@@ -23,13 +23,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="sql" width="40" height="40"/>
-<a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" width="40" height="40"/>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://cdn-finae.nitrocdn.com/hRSwUytBAMOZcYjAQdJyIOUUHAzcrQlS/assets/images/optimized/rev-1c0e35d/ebpearls.com.au/wp-content/uploads/2023/06/Swift.svg" alt="swift" width="40" height="40"/>
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" alt="xcode" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Jupyter-Notebook-EF5w-udy4.png" alt="jupyter" width="40" height="40"/>
-<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://mobilemouse.com.au/wp-content/uploads/2021/08/Power_BI_256.png" alt="powerbi" width="40" height="40"/> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="pandas" width="40" height="40"/> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/br/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/adobe-premiere-pro/logo-premiere-pro-256.png" alt="premiere" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </a> </p>
@@ -40,6 +36,13 @@
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: gstvadami@gmail.com or www.linkedin.com/in/gfadami
+
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/Jupyter-Notebook-EF5w-udy4.png" alt="jupyter" width="40" height="40"/>
+<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://mobilemouse.com.au/wp-content/uploads/2021/08/Power_BI_256.png" alt="powerbi" width="40" height="40"/> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="pandas" width="40" height="40"/> 
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="sql" width="40" height="40"/>
+<a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="ssms" width="40" height="40"/>
 
 
 gfadami/gfadami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
